@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IclicksYandexCloud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a3df3bc7edcfdcaf6475053d95684a596b8027")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa536bfd1d3b89e7a13cf49521b67c15485d9c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("IclicksYandexCloud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IclicksYandexCloud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
