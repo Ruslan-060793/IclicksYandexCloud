@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6ROdN0DzYKxGqzAoRFi/6vG/kGM7hVU2GusDnGaJ010=",
+  "Hash": "HrefmkZjnu0vfYHFFKsErC6URVFKsVUbDHBf/IjJ1LY=",
   "Source": "IclicksYandexCloud",
   "BasePath": "_content/IclicksYandexCloud",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/iclicks.pdf",
+      "SourceId": "IclicksYandexCloud",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/",
+      "BasePath": "_content/IclicksYandexCloud",
+      "RelativePath": "iclicks.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/iclicks.pdf"
     },
     {
       "Identity": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3039-6364-4537-b838-643735393764__group_51.svg",

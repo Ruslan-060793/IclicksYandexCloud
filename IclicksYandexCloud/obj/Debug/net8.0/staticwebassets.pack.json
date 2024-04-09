@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/iclicks.pdf",
+      "PackagePath": "staticwebassets/iclicks.pdf"
+    },
+    {
       "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3039-6364-4537-b838-643735393764__group_51.svg",
       "PackagePath": "staticwebassets/images/tild3039-6364-4537-b838-643735393764__group_51.svg"
     },

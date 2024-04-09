@@ -28,3 +28,4 @@
 /Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/obj/Debug/net8.0/IclicksYandexCloud.pdb
 /Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/obj/Debug/net8.0/IclicksYandexCloud.genruntimeconfig.cache
 /Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/obj/Debug/net8.0/ref/IclicksYandexCloud.dll
+/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/obj/Debug/net8.0/IclicksYandexCloud.sourcelink.json
