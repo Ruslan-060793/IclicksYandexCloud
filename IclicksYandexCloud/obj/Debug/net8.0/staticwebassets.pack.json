@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/obj/Debug/net8.0/scopedcss/projectbundle/IclicksYandexCloud.bundle.scp.css",
+      "PackagePath": "staticwebassets/IclicksYandexCloud.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/css/highlight.min.css",
+      "PackagePath": "staticwebassets/css/highlight.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/css/tilda-blocks-page46157989.min.css",
+      "PackagePath": "staticwebassets/css/tilda-blocks-page46157989.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/css/tilda-grid-3.0.min.css",
+      "PackagePath": "staticwebassets/css/tilda-grid-3.0.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3039-6364-4537-b838-643735393764__group_51.svg",
+      "PackagePath": "staticwebassets/images/tild3039-6364-4537-b838-643735393764__group_51.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3066-3034-4634-b138-643066316162__logo.svg",
+      "PackagePath": "staticwebassets/images/tild3066-3034-4634-b138-643066316162__logo.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3135-6633-4635-b530-333234616333__monitor.svg",
+      "PackagePath": "staticwebassets/images/tild3135-6633-4635-b530-333234616333__monitor.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3233-3562-4661-a565-376236303665__line5.svg",
+      "PackagePath": "staticwebassets/images/tild3233-3562-4661-a565-376236303665__line5.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3235-3361-4666-a439-303965383235__mail-icon-1.svg",
+      "PackagePath": "staticwebassets/images/tild3235-3361-4666-a439-303965383235__mail-icon-1.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3237-6235-4136-b863-626237393830__text2.svg",
+      "PackagePath": "staticwebassets/images/tild3237-6235-4136-b863-626237393830__text2.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3263-6363-4032-a566-376436326131__line4.svg",
+      "PackagePath": "staticwebassets/images/tild3263-6363-4032-a566-376436326131__line4.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3336-3365-4735-b966-613461373735__img2.png",
+      "PackagePath": "staticwebassets/images/tild3336-3365-4735-b966-613461373735__img2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3464-3065-4232-a335-393838623061__line7.svg",
+      "PackagePath": "staticwebassets/images/tild3464-3065-4232-a335-393838623061__line7.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3565-6264-4839-b632-376634653062__win2.svg",
+      "PackagePath": "staticwebassets/images/tild3565-6264-4839-b632-376634653062__win2.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3630-3137-4238-b561-383264396362__user.svg",
+      "PackagePath": "staticwebassets/images/tild3630-3137-4238-b561-383264396362__user.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3661-6563-4335-b638-376134373237__group_28.svg",
+      "PackagePath": "staticwebassets/images/tild3661-6563-4335-b638-376134373237__group_28.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3663-3030-4636-b231-323630623332__img1.png",
+      "PackagePath": "staticwebassets/images/tild3663-3030-4636-b231-323630623332__img1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3731-6639-4239-b030-396631333361__group_27.svg",
+      "PackagePath": "staticwebassets/images/tild3731-6639-4239-b030-396631333361__group_27.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3733-6666-4630-b162-316366656334__group_58.png",
+      "PackagePath": "staticwebassets/images/tild3733-6666-4630-b162-316366656334__group_58.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3762-3034-4833-a337-656539643234__group_53.svg",
+      "PackagePath": "staticwebassets/images/tild3762-3034-4833-a337-656539643234__group_53.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3865-3438-4633-a663-396462656564__group_55.svg",
+      "PackagePath": "staticwebassets/images/tild3865-3438-4633-a663-396462656564__group_55.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3934-3935-4437-b230-626232313563__group_52.svg",
+      "PackagePath": "staticwebassets/images/tild3934-3935-4437-b230-626232313563__group_52.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild3965-3562-4936-a361-326431373665__image_13.png",
+      "PackagePath": "staticwebassets/images/tild3965-3562-4936-a361-326431373665__image_13.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6238-6138-4132-b139-646338333966__group_59.png",
+      "PackagePath": "staticwebassets/images/tild6238-6138-4132-b139-646338333966__group_59.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6261-6366-4232-a166-316662613961__group_60.png",
+      "PackagePath": "staticwebassets/images/tild6261-6366-4232-a166-316662613961__group_60.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6264-3734-4361-a264-626562646665__line8.svg",
+      "PackagePath": "staticwebassets/images/tild6264-3734-4361-a264-626562646665__line8.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6333-6233-4631-b039-343563633166__text1.svg",
+      "PackagePath": "staticwebassets/images/tild6333-6233-4631-b039-343563633166__text1.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6333-6662-4339-b631-643836386365__preview-2_1.png",
+      "PackagePath": "staticwebassets/images/tild6333-6662-4339-b631-643836386365__preview-2_1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6334-3132-4664-a365-376538643130__mail.svg",
+      "PackagePath": "staticwebassets/images/tild6334-3132-4664-a365-376538643130__mail.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6336-3739-4236-b438-663163366136__win1.svg",
+      "PackagePath": "staticwebassets/images/tild6336-3739-4236-b438-663163366136__win1.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6338-6563-4433-a164-656132613435__line3.svg",
+      "PackagePath": "staticwebassets/images/tild6338-6563-4433-a164-656132613435__line3.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6431-3664-4231-a263-663765633830__server.png",
+      "PackagePath": "staticwebassets/images/tild6431-3664-4231-a263-663765633830__server.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6461-3831-4432-b130-396634346131__preview-6-1_1.png",
+      "PackagePath": "staticwebassets/images/tild6461-3831-4432-b130-396634346131__preview-6-1_1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6463-3366-4433-b866-313364666530__pattern.svg",
+      "PackagePath": "staticwebassets/images/tild6463-3366-4433-b866-313364666530__pattern.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6465-3633-4430-b965-646162313965__group_54.svg",
+      "PackagePath": "staticwebassets/images/tild6465-3633-4430-b965-646162313965__group_54.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6465-6237-4065-b064-343835363238__rekl2.svg",
+      "PackagePath": "staticwebassets/images/tild6465-6237-4065-b064-343835363238__rekl2.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6466-6435-4332-b263-363263666637__users.png",
+      "PackagePath": "staticwebassets/images/tild6466-6435-4332-b263-363263666637__users.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6466-6438-4463-a165-396535643633__logo.svg",
+      "PackagePath": "staticwebassets/images/tild6466-6438-4463-a165-396535643633__logo.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6532-6433-4364-b736-353237343736__line2.svg",
+      "PackagePath": "staticwebassets/images/tild6532-6433-4364-b736-353237343736__line2.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6538-3666-4264-b565-383661336331__arrowx2.jpg",
+      "PackagePath": "staticwebassets/images/tild6538-3666-4264-b565-383661336331__arrowx2.jpg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6564-3766-4533-b565-386236333163__line1.svg",
+      "PackagePath": "staticwebassets/images/tild6564-3766-4533-b565-386236333163__line1.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6635-3230-4364-b434-323135386264__line6.svg",
+      "PackagePath": "staticwebassets/images/tild6635-3230-4364-b434-323135386264__line6.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6637-3066-4363-b961-383536613865__rekl1.svg",
+      "PackagePath": "staticwebassets/images/tild6637-3066-4363-b961-383536613865__rekl1.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6637-3231-4362-b666-386536313134__buildin-oval.svg",
+      "PackagePath": "staticwebassets/images/tild6637-3231-4362-b666-386536313134__buildin-oval.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6662-6465-4439-a164-663035373437__line9.svg",
+      "PackagePath": "staticwebassets/images/tild6662-6465-4439-a164-663035373437__line9.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tild6666-3663-4161-a434-313762356439__group_56.svg",
+      "PackagePath": "staticwebassets/images/tild6666-3663-4161-a434-313762356439__group_56.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tildacopy.png",
+      "PackagePath": "staticwebassets/images/tildacopy.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tildacopy_black.png",
+      "PackagePath": "staticwebassets/images/tildacopy_black.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/images/tildafavicon.ico",
+      "PackagePath": "staticwebassets/images/tildafavicon.ico"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/highlight.min.js",
+      "PackagePath": "staticwebassets/js/highlight.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets/js/jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/lazyload-1.3.min.export.js",
+      "PackagePath": "staticwebassets/js/lazyload-1.3.min.export.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/tilda-blocks-page46157989.min.js",
+      "PackagePath": "staticwebassets/js/tilda-blocks-page46157989.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/tilda-events-1.0.min.js",
+      "PackagePath": "staticwebassets/js/tilda-events-1.0.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/tilda-polyfill-1.0.min.js",
+      "PackagePath": "staticwebassets/js/tilda-polyfill-1.0.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/tilda-scripts-3.0.min.js",
+      "PackagePath": "staticwebassets/js/tilda-scripts-3.0.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/tilda-stat-1.0.min.js",
+      "PackagePath": "staticwebassets/js/tilda-stat-1.0.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/tilda-zero-1.1.min.js",
+      "PackagePath": "staticwebassets/js/tilda-zero-1.1.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/js/tilda-zero-scale-1.0.min.js",
+      "PackagePath": "staticwebassets/js/tilda-zero-scale-1.0.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/IclicksYandexCloud/IclicksYandexCloud/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.IclicksYandexCloud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.IclicksYandexCloud.props",
+      "PackagePath": "build\\IclicksYandexCloud.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.IclicksYandexCloud.props",
+      "PackagePath": "buildMultiTargeting\\IclicksYandexCloud.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.IclicksYandexCloud.props",
+      "PackagePath": "buildTransitive\\IclicksYandexCloud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
